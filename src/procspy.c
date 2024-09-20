@@ -205,7 +205,7 @@ cleanup (int signum)
 }
 
 void
-handle_i(WINDOW *win)
+handle_i (WINDOW *win)
 {
   int ch;
 
@@ -251,7 +251,7 @@ update (WINDOW *win)
 }
 
 int
-main()
+main ()
 {
   int fd, wd;
   initscr();
