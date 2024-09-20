@@ -1,0 +1,2 @@
+# procspy
+🌌| [sudoless] processes monitor
